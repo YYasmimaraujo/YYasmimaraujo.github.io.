@@ -4,5 +4,5 @@ Sou desenvolvedora full stack em Brasília. Trabalho com HTML, CSS, JavaScript, 
 
 **Projeto em destaque:** [Hora certa](https://yyasmimaraujo.github.io/Hora-certa/), uma agenda em que o dia é um relógio de 24 horas, feita com JavaScript e Supabase.
 
-**Portfólio:** https://yyasmimaraujo.github.io
+**Portfólio:** https://yyasmimaraujo.github.io/YYasmimaraujo.github.io./
 **LinkedIn:** https://www.linkedin.com/in/yasmimaraujoo
